@@ -80,7 +80,7 @@ education:
         time: 2016 - 2020
         details: |
           GPA: 89
-          - Final Project: Designing and researching a deep neural network for a language model.
+          Final Project: Designing and researching a deep neural network for a language model.
           
 experiences:
     title: Experience
@@ -89,15 +89,10 @@ experiences:
         time: 2020 - 2023
         company: Wipro - Proficiency
         details: |
-            •	Designing and implementing innovative software features.
-            •	Identifying and resolving software bugs, enhancing system performance.
-            •	Improving code efficiency.
-            •	Utilized frameworks like Spring and Hibernate; experienced in RESTful API development.
-      - role: Network Administrator, Lotem
-        time: 2014
-        company: Military Service
-        details: |
-          Maintenance of terminal stations ג€“ operating system installation, formatting, data backup and recovery.
+            Designing and implementing innovative software features.\n
+            Identifying and resolving software bugs, enhancing system performance.\n
+            Improving code efficiency.\n
+            Utilized frameworks like Spring and Hibernate; experienced in RESTful API development.
 
 # certifications:
 #       title: Certifications
