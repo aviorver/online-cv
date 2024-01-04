@@ -203,18 +203,6 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51ג€“55"
 
- skills:
-     title: Skills 
-      &amp; Proficiency
-
-     toolset:
-        - name: Java
-       - name: Python
-       - name: SQL
-       - name: C
-        - name: MySQL
-         - name: Spring
-          - name: JSP
 
 
 #       - name: Javascript & jQuery
