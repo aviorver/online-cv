@@ -80,7 +80,7 @@ education:
         time: 2016 - 2020
         details: |
           GPA: 89
-            - Final Project: Designing and researching a deep neural network for a language model.
+          - Final Project: Designing and researching a deep neural network for a language model.
           
 experiences:
     title: Experience
@@ -92,9 +92,9 @@ experiences:
             - Improving the performance of the departmentג€™s main model that predicts houses price appreciation, by developing and adding new features to the model.
             - Owning end-to-end research projects, from planning to production. Training gradient boosting models and using different statistical methods and backtesting techniques to analyze and evaluate performance.
             - Evaluating and integrating new data sources and research tools using different feature selection and regression techniques.
-      - role: Software Developer 
-        time: 2017 - 2020
-        company: Check Point Software Technologies
+      - role: Back-End Java Developer
+        time: 2020 - 2023
+        company: Wipro - Proficiency
         details: |
           C developer on Linux environment. Developed web security products as part of Check Point Security Gateway, working in both Kernel and User Space environments.
       - role: Network Administrator, Lotem
