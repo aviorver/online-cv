@@ -205,7 +205,7 @@ experiences:
 
  skills:
      title: Skills 
-     # &amp; Proficiency
+      &amp; Proficiency
 
      toolset:
         - name: Java
