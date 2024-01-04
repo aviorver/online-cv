@@ -30,14 +30,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    # languages:
-    #   title: Languages
-    #   info:
-    #     - idiom: 
-    #       level: 
+     languages:
+       title: Languages
+       info:
+         - idiom: Hebrew 
+           level: Native
 
-    #     - idiom: 
-    #       level: 
+         - idiom: English
+           level: Very Good
 
     # interests:
     #   title: Interests
