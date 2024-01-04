@@ -76,10 +76,10 @@ education:
     title: Education
     info:
       - degree: Bachelor Of Science, Software Engineering
-        university: Ben Gurion University Of The Negev, Israel
-        time: 2021
+        university: AFEKA – Academic College of Engineering, Tel Aviv
+        time: 2016 - 2020
         details: |
-          GPA: 94.2
+          GPA: 89
             - Specialization in Machine Learning and Big Data Analytics.
             - Designing and researching a deep neural network that enhances security in Cloud-based machine learning services. Advisor- Dr. Gilad Katz.
       - degree: Bachelor Of Science, Computer Science
