@@ -80,7 +80,7 @@ education:
         time: 2016 - 2020
         details: |
           GPA: 89
-          Final Project: Designing and researching a deep neural network for a language model.
+          - Final Project: Designing and researching a deep neural network for a language model.
           
 experiences:
     title: Experience
@@ -89,10 +89,10 @@ experiences:
         time: 2020 - 2023
         company: Wipro - Proficiency
         details: |
-            Designing and implementing innovative software features.|
-            Identifying and resolving software bugs, enhancing system performance.|
-            Improving code efficiency.|
-            Utilized frameworks like Spring and Hibernate; experienced in RESTful API development.
+            - Designing and implementing innovative software features.
+            - Identifying and resolving software bugs, enhancing system performance.
+            - Improving code efficiency.
+            - Utilized frameworks like Spring and Hibernate; experienced in RESTful API development.
 
 # certifications:
 #       title: Certifications
