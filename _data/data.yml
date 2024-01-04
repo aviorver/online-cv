@@ -54,24 +54,21 @@ sidebar:
     skills:
       title: Skills
       info:
+        - item: Java
         - item: Python
-        - item: SQL
         - item: C
-        - item: C#
-        - item: Pandas
-        - item: Numpy
-        - item: Scikit-learn
-        - item: Git
-        - item: TensorFlow
+        - item: MySQL
+        - item: JSP
+        - item: Spring
 
 career-profile:
     title: Career Profile
     summary: |
-        Experienced Java Developer (3.5 years) with a proven track record in designing and 
-        implementing innovative software features. 
-        Adept at troubleshooting and improving code efficiency. 
-        Proficient in Object-Oriented Programming and Design (OOP/OOD).
-        Passionate about staying at the forefront of cutting-edge technologies.
+        - Experienced Java Developer (3.5 years) with a proven track record in designing and 
+        - implementing innovative software features. 
+        - Adept at troubleshooting and improving code efficiency. 
+        - Proficient in Object-Oriented Programming and Design (OOP/OOD).
+        - Passionate about staying at the forefront of cutting-edge technologies.
 education:
     title: Education
     info:
