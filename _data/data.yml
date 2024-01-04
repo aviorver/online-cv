@@ -30,6 +30,19 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
+     skills:
+      title: Skills
+      info:
+        - item: Python
+        - item: SQL
+        - item: C
+        - item: C#
+        - item: Pandas
+        - item: Numpy
+        - item: Scikit-learn
+        - item: Git
+        - item: TensorFlow
+        
     languages:
        title: Languages
        info:
@@ -51,18 +64,7 @@ sidebar:
     #     - item: 
     #       link:
 
-    skills:
-      title: Skills
-      info:
-        - item: Python
-        - item: SQL
-        - item: C
-        - item: C#
-        - item: Pandas
-        - item: Numpy
-        - item: Scikit-learn
-        - item: Git
-        - item: TensorFlow
+   
 
 career-profile:
     title: Career Profile
