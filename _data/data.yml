@@ -81,16 +81,6 @@ education:
         details: |
           GPA: 89
             - Final Project: Designing and researching a deep neural network for a language model.
-      - degree: Bachelor Of Science, Computer Science
-        university: Tel-Aviv Jaffa College, Israel
-        time: 2014 - 2017
-        details: |
-          Dean's list, GPA: 88      
-      - degree: Pagaya's Excellence Data Science Program
-        university: "PagayaPro"
-        time: 2021
-        details: |
-          4-Month Extensive Training. Full-time program with a full-time salary, focusing on hands-on Data Science experience using Python's DS libraries and advanced topics in probability, statistics, and ML theory.
           
 experiences:
     title: Experience
