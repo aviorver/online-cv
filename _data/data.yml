@@ -30,15 +30,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-     languages:
-       title: Languages
-       info:
-         - idiom: Hebrew 
-           level: Native
-
-         - idiom: English
-           level: Very Good
-
+   
     # interests:
     #   title: Interests
     #   info:
@@ -60,6 +52,16 @@ sidebar:
         - item: MySQL
         - item: JSP
         - item: Spring
+
+    languages:
+       title: Languages
+       info:
+         - idiom: Hebrew 
+           level: Native
+
+         - idiom: English
+           level: Very Good
+
 
 career-profile:
     title: Career Profile
