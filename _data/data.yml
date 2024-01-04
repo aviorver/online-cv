@@ -8,19 +8,19 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Avior Vered
-    tagline: Software Engineer
+    name: Chen Dahan
+    tagline: Data Scientist
     avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: aviorver@gmail.com
-    phone: 052 8307929
+    email: chen1dahan1@gmail.com
+    phone: 050 8822283
     timezone: 
     citizenship:
     website: 
-    linkedin: avior-vered
+    linkedin: Dahan-Chen
     xing: 
-    github: aviorver
+    github: chendahan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -29,15 +29,15 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
-        
-    languages:
-       title: Languages
-       info:
-         - idiom: Hebrew
-           level: Native 
 
-         - idiom: English
-           level: Very Good
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: 
+    #       level: 
+
+    #     - idiom: 
+    #       level: 
 
     # interests:
     #   title: Interests
@@ -51,7 +51,6 @@ sidebar:
     #     - item: 
     #       link:
 
-           
     skills:
       title: Skills
       info:
@@ -64,7 +63,7 @@ sidebar:
         - item: Scikit-learn
         - item: Git
         - item: TensorFlow
-    
+
 career-profile:
     title: Career Profile
     summary: |
