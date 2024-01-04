@@ -38,6 +38,19 @@ sidebar:
 
          - idiom: English
            level: Very Good
+
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: 
+    #       link:
+
+    #     - item: 
+    #       link:        
+        
+    #     - item: 
+    #       link:
+
            
     skills:
       title: Skills
@@ -52,18 +65,7 @@ sidebar:
         - item: Git
         - item: TensorFlow
     
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: 
-    #       link:
-
-    #     - item: 
-    #       link:        
-        
-    #     - item: 
-    #       link:
-
+   
    
 
 career-profile:
