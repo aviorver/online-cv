@@ -29,8 +29,16 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
+        
+    languages:
+       title: Languages
+       info:
+         - idiom: Hebrew
+           level: Native 
 
-     skills:
+         - idiom: English
+           level: Very Good
+    skills:
       title: Skills
       info:
         - item: Python
@@ -42,16 +50,7 @@ sidebar:
         - item: Scikit-learn
         - item: Git
         - item: TensorFlow
-        
-    languages:
-       title: Languages
-       info:
-         - idiom: Hebrew
-           level: Native 
-
-         - idiom: English
-           level: Very Good
-
+    
     # interests:
     #   title: Interests
     #   info:
