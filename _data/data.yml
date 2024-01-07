@@ -71,16 +71,7 @@ career-profile:
         - Adept at troubleshooting and improving code efficiency. 
         - Proficient in Object-Oriented Programming and Design (OOP/OOD).
         - Passionate about staying at the forefront of cutting-edge technologies.
-education:
-    title: Education
-    info:
-      - degree: Bachelor Of Science, Software Engineering
-        university: AFEKA – Academic College of Engineering, Tel Aviv
-        time: 2016 - 2020
-        details: |
-          GPA: 89
-          - Final Project: Designing and researching a deep neural network for a language model.
-          
+
 experiences:
     title: Experience
     info:
@@ -92,6 +83,18 @@ experiences:
             - Identifying and resolving software bugs, enhancing system performance.
             - Improving code efficiency.
             - Utilized frameworks like Spring and Hibernate; experienced in RESTful API development.
+            
+education:
+    title: Education
+    info:
+      - degree: Bachelor Of Science, Software Engineering
+        university: AFEKA – Academic College of Engineering, Tel Aviv
+        time: 2016 - 2020
+        details: |
+          GPA: 89
+          - Final Project: Designing and researching a deep neural network for a language model.
+          
+
 
 # certifications:
 #       title: Certifications
